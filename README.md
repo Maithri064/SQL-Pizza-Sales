@@ -1,22 +1,23 @@
 ## Pizza Sales SQL Analysis
 This project uses SQL to analyze pizza sales data and find useful business insights.
 
-What I Did
-Counted total orders and total revenue
+#### What I Did
 
-Found the highest-priced pizza
+-Counted total orders and total revenue
 
-Checked the most popular pizza size
+-Found the highest-priced pizza
 
-Listed top 5 pizzas by quantity sold
+-Checked the most popular pizza size
 
-Analyzed orders by hour of the day
+-Listed top 5 pizzas by quantity sold
 
-Checked pizza categories and daily averages
+-Analyzed orders by hour of the day
 
-Found top 3 pizzas by revenue
+-Checked pizza categories and daily averages
 
-# Tools Used
+-Found top 3 pizzas by revenue
+
+### Tools Used
 MySQL
 
 SQL Queries
